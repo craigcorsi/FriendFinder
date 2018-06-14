@@ -2,61 +2,61 @@ var storedFriends = [
     {
         "name":"Captain Falcon",
         "photo":"https://vignette.wikia.nocookie.net/ssb/images/3/34/Captainfalcon_Artwork.jpg",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[1,5,3,1,1,1,1,4,3,2]
     },
     {
         "name":"Donkey Kong",
         "photo":"https://www.ssbwiki.com/images/5/5f/Donkey_Kong_SSB4.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[2,5,1,1,3,1,2,3,2,1]
     },
     {
         "name":"Fox",
         "photo":"https://www.ssbwiki.com/images/7/74/Fox_SSB4.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[3,1,3,2,1,5,1,5,3,1]
     },
     {
         "name":"Jigglypuff",
         "photo":"https://www.ssbwiki.com/images/a/a6/Jigglypuff_SSB4.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[5,2,1,1,1,1,1,1,3,5]
     },
     {
         "name":"Kirby",
         "photo":"https://www.ssbwiki.com/images/thumb/6/63/Kirby_KSA.png/550px-Kirby_KSA.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[5,1,1,1,3,1,3,1,1,2]
     },
     {
         "name":"Link",
         "photo":"https://www.ssbwiki.com/images/thumb/0/00/Link_BotW.png/500px-Link_BotW.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[2,3,4,2,1,3,5,5,5,2]
     },
     {
         "name":"Luigi",
         "photo":"https://www.ssbwiki.com/images/thumb/5/5c/Luigi_MP10.png/400px-Luigi_MP10.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[3,4,1,1,2,1,2,4,3,3]
     },
     {
         "name":"Mario",
         "photo":"https://www.ssbwiki.com/images/thumb/7/7c/Mario_MP10.png/250px-Mario_MP10.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[3,3,4,1,5,3,1,4,5,2]
     },
     {
         "name":"Ness",
         "photo":"https://www.ssbwiki.com/images/d/d5/Ness.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[4,2,4,4,1,2,5,2,2,1]
     },
     {
         "name":"Pikachu",
         "photo":"https://www.ssbwiki.com/images/a/a0/Pikachu_SSB4.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[4,1,1,5,3,2,1,1,4,3]
     },
     {
         "name":"Samus",
         "photo":"https://www.ssbwiki.com/images/thumb/6/68/Samus_Other_M_Artwork.png/500px-Samus_Other_M_Artwork.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[3,1,3,5,3,5,1,5,5,1]
     },
     {
         "name":"Yoshi",
         "photo":"https://www.ssbwiki.com/images/thumb/2/2a/Yoshi_MP10.png/400px-Yoshi_MP10.png",
-        "scores":[1,1,1,1,1,1,1,1,1,1]
+        "scores":[2,2,1,1,2,1,1,1,3,2]
     }
 ]
