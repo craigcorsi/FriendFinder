@@ -59,4 +59,6 @@ var storedFriends = [
         "photo":"https://www.ssbwiki.com/images/thumb/2/2a/Yoshi_MP10.png/400px-Yoshi_MP10.png",
         "scores":[2,2,1,1,2,1,1,1,3,2]
     }
-]
+];
+
+module.exports = storedFriends;

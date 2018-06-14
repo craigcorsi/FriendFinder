@@ -83,7 +83,7 @@
         <h3>
             <strong>Question 5</strong>
         </h3>
-        <h4>You can play the doctor when needed.</h4>
+        <h4>You have the skills of a doctor.</h4>
         <select class="attribute-selector" id="q5">
             <option value=""></option>
             <option value="1">1 (Strongly Disagree)</option>
@@ -220,7 +220,7 @@
 
         $('#submit').on("click", function (event) {
             event.preventDefault();
-            if (validateForm()) {
+            if (validate()) {
                 // Create an object for the user"s data
                 var userData = {
                     name: $("#name").val(),
@@ -238,6 +238,8 @@
                         $("#q10").val()
                     ]
                 };
+
+                console.log(userData);
 
                 $.post("/api/friends", userData, function (data) {
                     $("#match-name").text(data.name);
