@@ -20,8 +20,43 @@ var storedFriends = [
         "scores":[1,1,1,1,1,1,1,1,1,1]
     },
     {
-        "name":"Fox",
-        "photo":"https://www.ssbwiki.com/images/a/a6/Jigglypuff_SSB4.png",
+        "name":"Kirby",
+        "photo":"https://www.ssbwiki.com/images/thumb/6/63/Kirby_KSA.png/550px-Kirby_KSA.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Link",
+        "photo":"https://www.ssbwiki.com/images/thumb/0/00/Link_BotW.png/500px-Link_BotW.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Luigi",
+        "photo":"https://www.ssbwiki.com/images/thumb/5/5c/Luigi_MP10.png/400px-Luigi_MP10.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Mario",
+        "photo":"https://www.ssbwiki.com/images/thumb/7/7c/Mario_MP10.png/250px-Mario_MP10.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Ness",
+        "photo":"https://www.ssbwiki.com/images/d/d5/Ness.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Pikachu",
+        "photo":"https://www.ssbwiki.com/images/a/a0/Pikachu_SSB4.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Samus",
+        "photo":"https://www.ssbwiki.com/images/thumb/6/68/Samus_Other_M_Artwork.png/500px-Samus_Other_M_Artwork.png",
+        "scores":[1,1,1,1,1,1,1,1,1,1]
+    },
+    {
+        "name":"Yoshi",
+        "photo":"https://www.ssbwiki.com/images/thumb/2/2a/Yoshi_MP10.png/400px-Yoshi_MP10.png",
         "scores":[1,1,1,1,1,1,1,1,1,1]
     }
 ]
