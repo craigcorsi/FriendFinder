@@ -12,6 +12,8 @@ app.use(express.static("app/public"));
 
 var friends = require('./app/data/friends.js');
 
+// rename html files to index, 
+
 app.get("/", function (req, res) {
     res.sendFile(path.join(__dirname, "./app/public/home.html"));
 });
